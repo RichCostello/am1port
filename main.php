@@ -1,0 +1,355 @@
+<!--WELCOME MESSAGE-->
+<section id="welcome-message">
+	<div class="wrapper">
+		
+		<hgroup>
+			
+	
+		  <h2><span>Rich Costello</span><br/>
+		    Responsive <strong>Front-End&nbsp;Developer</strong></h2>
+		</hgroup>
+		
+		<img id="profile" align="right" src="assets/images/content/rc-profile.png" alt="Ryan Taylor" />
+		
+	</div>
+</section>
+
+<!--MY WORK-->
+<section id="my-work">
+	<div class="wrapper">
+		<header>
+			<h1>Web Portfolio</h1>
+			<a class="btt" href="#site-header">Back To Top</a>
+		</header>
+		
+		<div class="project createdm">
+			<figure>
+				<a rel="single-image" href="assets/images/content/createdm-full-screenshot.jpg">
+				<a href="https://greenvalleyranch.sclv.com/" target="_blank"><img align="left" src="assets/images/content/gvr.jpg" alt="Create DM" /></a>
+				
+			</figure>
+			
+			<article>
+				<h2>Station Casinos</h2>
+				<p>I started work here as a developer in early 2010.  The position encompassed all elements of the corporate web presence. My range of duties required a knowledge of both front and back end development. I managed 35 sites hosted on multiple servers and multiple platforms ranging from PHP, Drupal, Wordpress, .Net to customized web applications. Working in conjunction with both our advertising department and external agencies we would re-purpose print, video and audio collateral onto our various web properties. Additional duties included developing and maintaining the RESNET booking engine, the portal in which online guests book hotel rooms. In the spring of 2012 was involed in the redesign and implementation of the new corporate web sites.</p>
+			<!--	<p class="project-link"><strong>Visit:</strong> <a href="https://greenvalleyranch.sclv.com/" target="_blank">Greenvalleyranch.sclv.com</a></p>-->
+            
+            <div class="project-technology">
+               <p class="project-link">Visit</p>
+                <ul>
+                <li class="project-list"> <a href="https://greenvalleyranch.sclv.com/" target="_blank">Green Valley</a></li>
+                
+                  <li class="project-list"><a href="http://blog.stationcasinos.com/" target="_blank">Wordpress blog</a></li>
+                  <li class="project-list"><a href="http://stationassets.com/myoffer/August12Final/3771896" target="_blank">Custom Pages</a></li>
+                
+                </ul>
+                </div>
+				
+				
+				<div class="project-technology">
+					<h4>Technology &amp; Techniques Used</h4>
+					
+					<ul>
+						<li class="responsive-design">
+							<img src="assets/images/site/tech-responsive-design.png" alt="jQuery" />
+							<span>Responsive<br/>Design</span>
+						</li>
+						<li class="wordpress">
+							<img src="assets/images/site/tech-wordpress.png" alt="Wordpress" />
+							<span>Wordpress</span>
+						</li>
+                        
+                         <li class="jquery">
+							<img src="assets/images/site/php.png" alt="jQuery" />
+							<span>PHP</span>
+						</li>
+                        <li class="jquery">
+							<img src="assets/images/site/html5.png" alt="jQuery" />
+							<span>HTML5</span>
+						</li>
+						
+					</ul>
+				</div>
+			</article>
+		</div>
+		
+		<div class="project naomiatkinsondesign">
+			<figure>
+				<a rel="single-image" href="assets/images/content/naomiatkinsondesign-full-screenshot.jpg">
+				<a href="http://stationcasinosbingo.com/halfoffhotel/" target="_blank"><img align="left" src="assets/images/content/landing.jpg" alt="Headscape" />
+				</a>
+			</figure>
+			
+			<article>
+				<h2>Dynamic Landing Pages</h2>
+				<p>The fast paced world of web development in a corporate casino marketing department required me to wear many hats. Landing pages were an essential part of the conversion chain with online advertising buys requiring customized landing pages using re-purposed print assets corresponding to a particular property/brand and the type of promotion being offered. The objective for our pages varied. Some promotions required highlighting multiple properties, which I employed the use of a jQury carousel and lots of visual imagery to promote the brand. Other promotions were target specific (i.e Groupon). Pages such as these often employed various functionalities such as dynamic calendars to highlight black out dates and web service calls to highlight casinos jackpot totals.</p>
+		<!--		<p class="project-link"><strong>Visit:</strong> <a href="http://stationcasinosbingo.com/halfoffhotel/" target="_blank">Summer Sale</a></p>-->
+				<div class="project-technology">
+               <p class="project-link">Visit</p>
+                <ul>
+                <li class="project-list"> <a href="http://stationcasinosbingo.com/halfoffhotel/" target="_blank">Summer Sale</a></li>
+                
+                  <li class="project-list"><a href="https://www.sclv.com/groupon/gvr/index.php" target="_blank">Groupon</a></li>
+                
+                </ul>
+                </div>
+				
+				<div class="project-technology">
+					<h4>Technology &amp; Techniques Used</h4>
+					
+					<ul>
+						<li class="responsive-design">
+							<img src="assets/images/site/tech-responsive-design.png" alt="jQuery" />
+							<span>Responsive<br/>Design</span>
+						</li>
+						<li class="jquery">
+							<img src="assets/images/site/tech-jquery.png" alt="jQuery" />
+							<span>jQuery</span>
+						</li>
+                        
+                        <li class="jquery">
+							<img src="assets/images/site/php.png" alt="jQuery" />
+							<span>PHP</span>
+						</li>
+                      
+					</ul>
+				</div>
+			</article>
+		</div>
+		
+		<div class="project cambridge">
+			<figure>
+				<a rel="single-image" href="assets/images/content/cambridge-full-screenshot.jpg">
+				<img align="left" src="assets/images/content/fbapp.jpg" alt="Headscape" />
+				</a>
+			</figure>
+			
+			<article>
+				<h2>Customized Facebook Apps</h2>
+				<p>During my time at Stations, Social Media marketing exploded and I was tasked with creating multiple Facebook web apps for various properties. Many of these promotions included using the Facebook SDK and Social Plug-ins to create Like buttons, Like gates and Access Tokens for various promotions and contests. In addition I created custom designed pages that would include games and web service calls and sign up pages would collect user info into data bases. One example listed below (one the right) was a promotion called Build-A-Wheel. This FB app used a Like Gate in which the user was required to like the promotion before being allowed to enter in their info to sign up for the contest. The app collected the user info and sent it to a MySQL database. I also worked with other social API's as well i.e. Twitter and Yelp.</p>
+                <p class="footnote">(You Must be logged into FB to view apps)</p>
+				<div class="project-technology">
+               <p class="project-link">Visit</p>
+                <ul>
+                <li class="project-list"> <a href="http://www.facebook.com/stationcasinos/app_361642313896250" target="_blank">Video Poker</a></li>
+                
+                  <li class="project-list"><a href="http://apps.facebook.com/video-poker-tourname/" target="_blank">Build-a-Wheel</a></li>
+                               
+
+                </ul>
+                </div>
+				
+				
+				<div class="project-technology">
+					<h4>Technology &amp; Techniques Used</h4>
+					
+					<ul>
+					
+						<li class="jquery">
+							<img src="assets/images/site/tech-jquery.png" alt="jQuery" />
+							<span>jQuery</span>
+						</li>
+                        <li class="jquery">
+							<img src="assets/images/site/php.png" alt="jQuery" />
+							<span>PHP</span>
+						</li>
+                        
+					</ul>
+				</div>
+			</article>
+		</div>
+			
+		<div class="project headscape">
+			<figure>
+				<a href="http://www.mikeferry.com/main/" target="_blank">
+				<img align="left" src="assets/images/content/mfo.jpg" alt="Headscape" />
+				</a>
+			</figure>
+			
+			<article>
+				<h2>Mike Ferry Organization</h2>
+				<p>The Mike Ferry Organization is a company that provides coaching, seminars and audio/video training products for Real Estate agents to increase their Sales. They hired me in the fall of 2009 to rework their web presence by creating a new front end design that would provide the user with a more visually appealing interface design. The goal of this site is to provide the user with information about the company, as well as an e-commerce store for seminars and products and an audio/visual portal providing users with video and audio samples of coaching services. </p>
+                <h3>Objective</h3>
+                <p>The original site was basically an out of the box Drupal theme with a basic Drupal Ubercart e-commerce set up. The primary goal of the marketing department was to create a customized front page and current features page that would have both a clean and a unique feel. In addition, they also wanted to customize several features of the e-commerce pages in Ubercart by creating custom layouts for Events and adding customized graphics like buttons, banners and e-newsletter templates.</p>
+                      <h3>Solution</h3>
+                <p>This project provided me a great opportunity to put my custom theming skills to work in both a Front End design and E-commerce layout scenario. In creating the new front end layout, I worked with the marketing department to nail down a general design layout in which I turned into wire frames and several html mock-ups. Upon reaching a consensus on the best design layout, I worked with a graphic designer to customized graphics and code out a template for the Drupal theme. On the e-commerce layout I took a similar course of action in creating a series of mock ups. From that point I went ahead and created a custom product class and content type for the Event Products section and coded the specifics for that class into the Drupal product template.
+Solution</p>
+                
+		    <p class="project-link"><strong>Visit:</strong> <a href="http://www.mikeferry.com/main/" target="_blank">http://www.mikeferry.com/main</a></p>
+			
+				
+				<div class="project-technology">
+					<h4>Technology &amp; Techniques Used</h4>
+					
+					<ul>
+						  
+                        <li class="jquery">
+							<img src="assets/images/site/tech-drupal.png" alt="jQuery" />
+							<span>Drupal</span>
+						</li>
+						<li class="jquery">
+							<img src="assets/images/site/tech-jquery.png" alt="jQuery" />
+							<span>jQuery</span>
+						</li>
+					</ul>
+				</div>
+			</article>
+		</div>
+        
+        
+        
+  <div class="project iosmobile">
+			<figure>
+				<a rel="single-image" href="assets/images/content/headscape-full-screenshot.jpg">
+				<img align="left" src="assets/images/content/gradio.jpg" alt="Headscape" />
+				</a>
+	  </figure>
+			
+			<article>
+				<h2>iOS and Mobile Dev</h2>
+				<p><strong>iOS Development:</strong> The best way to learn a new programming language is to dive head first into the code, which is exactly what I did. For the previous year I had been doing tutorials in IOS and X-code so I had a basic understanding of the platform. I allocated a month to do nothing but learn and code in X-Code and Objective C. Using the Big Nerd Ranch guide to iOS programming I set fourth to learn iOS and objective C. In addition to the Big Nerd Ranch guide I used the hands on tutorials http://www.raywenderlich.com and the ITunes U podcast featuring the Stanford iOS5 course by Paul Hegarty. By the end of 1 month I was able to put together 1 iphone application for submission called Guerrilla Radio, an internet radio station streaming via Shoutcast. I submitted it to the app store but unfortunately it was not accepted by Apple. Currently in the process of revising the app. You can download the current build of this app from my Git Hub account here to look at the code. In addition to that, I am current working on an app that tracks flu's and colds. This project is challenging in the fact that it requires me to access web services via JSON and RESTful api as well as employ customize map kit functions. Learning IOS development has very much invigorated the way I look at programming as a whole and I am happy I have chosen this path.</p>
+                
+           <p><strong>Sencha Touch and HTML5 Mobile Development:</strong>During the winter of 2012, I attended a meet-up and saw a demonstration of Sencha Touch, a javascript based HTML5 mobile web frame work. Upon downloading the package I realized the potential this platform had in creating mobile apps with ease. When I completed work on my native IOS app for Guerrilla Radio, I embarked on making a similar version in Sencha that could be accessed via a url. The result can be seen via the link below.
+ The thing I like about Sencha is that it allows you to create app across multiple platforms (Android, Blackberry, etc) without having to develop on their individual platforms. </p>    
+ <p class="footnote">The audio portion of this app will only work if accessed via Safari or on any iOS device</p> 
+		    <p class="project-link"><strong>Visit:</strong> <a href="http://www.am1media.com/radio" target="_blank">Guerrilla Radio</a></p>
+				
+				
+		  <div class="project-technology">
+					<h4>Technology &amp; Techniques Used</h4>
+					
+					<ul>
+						<li class="expressionengine">
+							<img src="assets/images/site/Xcode_icon.png" alt="ExpressionEngine" />
+							<span>X-Code</span>
+		        </li>
+						<li class="jquery">
+							<img src="assets/images/site/sencha_logo.jpg" alt="jQuery" />
+							<span>Sencha Touch</span>
+						</li>
+					</ul>
+				</div>
+			</article>
+		</div>
+		
+		
+					
+  <div id="other-projects">
+			<ul>
+				<li class="current">
+					<a class="createdm" href="#createdm">
+					<figure>
+						<img id="test-image" align="left" src="assets/images/content/gvr.jpg" alt="Stations" width="195" />
+					</figure>
+					<h4>Station Casinos</h4>
+					</a>
+				</li>
+				<li>
+					<a class="naomiatkinsondesign" href="#naomiatkinsondesign">
+					<figure>
+						<img id="test-image" align="left" src="assets/images/content/landing.jpg" alt="Dynamic Landing Pages" width="195" />
+					</figure>
+					<h4>Dynamic Landing Pages</h4>
+					</a>
+				</li>
+				<li>
+					<a class="cambridge" href="#cambridge">
+					<figure>
+						<img align="left" src="assets/images/content/fbapp.jpg" alt="Cambridge Pianoforte" width="195" />
+					</figure>
+					<h4>Custom Facebook Apps</h4>
+					</a>
+				</li>
+				<li>
+					<a class="headscape" href="#headscape">
+					<figure>
+						<img align="left" src="assets/images/content/mfo.jpg" alt="Headscape" width="195" />
+					</figure>
+					<h4>Mike Ferry Organization</h4>
+					</a>
+				</li>
+                
+               <li>
+			  <a class="iosmobile" href="#iosmobile">
+					<figure>
+						<img align="left" src="assets/images/content/gradio.jpg" alt="Headscape" width="195" />
+					</figure>
+					<h4>iOS and Mobile Dev</h4>
+					</a>
+			  </li> 
+				
+    </ul>
+		</div>
+		
+	</div>
+</section>
+
+<!--WHAT I DO-->
+<section id="what-i-do">
+	<div class="wrapper">
+		<header>
+			<h1>My Skill Set</h1>
+			<a class="btt" href="#site-header">Back To Top</a>
+		</header>
+		
+		<div id="design">
+			<h2>Design</h2>
+			<p>I am what is called a hybrid in the world of web design/dev, meaning I can both design and develop. As a designer, I look at a site in the terms of aesthetics and usability.  Not only must a site be pleasing to the eye but it should also engage the user with simplified access.  Over complex sites scare off users. <strong>Responsive Web Design</strong> By the end of 2013, it is predicted more people will be browsing the web on mobile devices than on desktop computers, websites should not be confined to single devices anymore and need to focus on  a multiple devices and screen sizes.</p>
+			
+			<img align="middle" src="assets/images/content/devices.png" alt="Devices" />
+			
+			<p class="footnote">&nbsp;</p>
+		</div>
+		
+		<div id="development">
+			<h2>Development</h2>
+			<p>I am primarily a Front End Developer and focus on: <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>. I focus on creating clean, W3 basced standard markup code that focuses on being responsive to all screen sizes and devices.</p>
+			
+			<p>In addition, I have experience in back end development, primarily in PHP/MySQL. I also have extensive hands on experience working with Content Management Systems such as Wordpress and Drupal.</p>
+			
+			<!--<img align="middle" src="assets/images/content/structure-behaviour-style.png" alt="Structure / Behaviour / Style" />-->
+		</div>
+		
+	</div>
+</section>
+
+<!--A BIT ABOUT ME-->
+<section id="about-me">
+	<div class="wrapper">
+		<header>
+			<h1>About me</h1>
+			<a class="btt" href="#site-header">Back To Top</a>
+		</header>
+
+		<div class="column">
+		    <p>    Welcome to my portfolio site. What started out as a business venture for me 10 years ago has become a full time profession. I started out in web development and design in 2002 with foray into Flash animation and from there it has blossomed into a full knowledge of HTML/CSS, Photoshop, PHP/MySQL, Javascript/JQuery as well as into various CMS's, primarily Drupal and Wordpress. </p>
+		    <p> I would consider myself foremost a Front End Developer but the journey to that role has given me hands on experience creating and modifying MySQL databases, command line functions, server admin functions as well as writing API's and web services calls. So in a nutshell, I am a hybrid developer who employs both design and Front End development skills as well as knowledge of back end development programming primarily in PHP/MySQL.</p>
+
+			
+	  </div>
+		
+		<!--<figure>
+		  
+		 
+		</figure>-->
+		
+		<div class="column">
+        <p> I enjoy working on unique challenging projects and pride myself in the diversity of my skill sets and ability to adapt to the every changing world of web and mobile development.
+You can view some of my code samples on Git Hub <a href="https://github.com/RichCostello" target="_blank">here</a></p>
+        
+		     <p>In addition to learning mobile development, I have also focused on other skills that will enable me to build robust and responsive web sites. First and foremost would be Twitter Bootstrap, a front end developers dream and the perfect way to get hands on with HTML5 and CSS3. I have also worked with SASS and compiled CSS. </p>
+             <p>Other areas I have begun to focus on are Javascript frameworks such as Node and Backbone. In addition, I participated in Ruby Weekend in May 2012 which I found very beneficial though my understanding of RoR at this point is very basic.</p>
+             
+		     
+		</div>
+					
+		<div class="column">
+        
+         <p>In another life I worked in various industries.  I owned a limousine company, drove a cab, worked in restaurants, was a purchaser for gracery distributorship and managed a warehouse operation with over 20 employees. Working with code however, has been the most rewarding for me because I love the challenges of problem solving and the fast past with which this field moves at.</p>
+		      <p>I've have always been a creative type as well as analytical and working in web design and development gives me the opportunity to have the best of both worlds.  The things I love the most about this industry is that to be on the top of you game you have to embrace a sense of never ending learning.  If you're a developer who is content where you are today you wil be obsolete tommorrow.</p>
+				
+		    
+		    
+		</div>
+	</div>
+</section>
