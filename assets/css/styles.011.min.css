@@ -817,6 +817,10 @@ div.project article {
 		div.project article .project-technology li { width: 33.33333333% }
  
 #design,#development { width: 97.727% }
+
+.next-logo {
+	margin-top: 5px;
+}
  
 #development {
 	border-top: 4px dashed rgba(195,195,195,0.5);
@@ -862,7 +866,7 @@ a.btt {
 	-o-background-size: 60%;
 	background-size: 60% }
  
-{  }
+
  
 
 
