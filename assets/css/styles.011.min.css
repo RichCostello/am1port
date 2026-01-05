@@ -330,6 +330,10 @@ div.project article {
 		line-height: 2em;
 		margin-right: 10px;
 		float:left}
+
+	div.project article p.project-link a{
+		font-size: 15px;
+	}
  
 	div.project article p.credits {
 		color: #959595;
